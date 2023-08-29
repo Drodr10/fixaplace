@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #808080;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2358,7 +2358,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #808080;
 		}
 
 		select:focus::-ms-value {
@@ -2446,7 +2446,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #808080;
 			content: '\f00c';
 		}
 
@@ -2527,7 +2527,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #808080;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2538,27 +2538,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #808080;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #808080;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #808080;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #808080;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #808080;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #808080;
 				}
 
 /* Image */
@@ -3240,7 +3240,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #808080;
 		}
 
 		.wrapper.style1 {
@@ -3248,18 +3248,18 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #808080;
 		}
 
 		.wrapper.style2 {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #808080;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #808080;
 		}
 
 		.wrapper.style3-alt {
@@ -3373,7 +3373,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #808080;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3527,7 +3527,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #808080;
 		cursor: default;
 		height: 100vh;
 		left: 0;
